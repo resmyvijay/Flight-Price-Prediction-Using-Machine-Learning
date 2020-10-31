@@ -28,13 +28,22 @@ Price -	Target, The price of the ticket()
 ### MACHINE LEARNING MODELS
 
 LINEAR REGRESSION
+
 RMSE: -0.15382690702196586
+
 RANDOM FOREST REGRESSION
+
 RMSE: -0.08553874202794202
+
 ADA BOOST REGRESSOR
+
 RMSE: -0.28852171860706
+
 XGB REGRESSOR
+
 RMSE: -0.0778318696839152
+
+### Random Forest Regressor displayed a low 'rmse' score compared to other regression models. hence it is used for predicting the test dataset 'price'
 
 
 
