@@ -1,5 +1,5 @@
 ## Flight Price Prediction
-This project is about using ###a machine learning model### to predict flight prices, given a dataset of flight data.
+This project is about using a machine learning model to predict flight prices, given a dataset of flight data.
 
 ### Data Dictionary
 
