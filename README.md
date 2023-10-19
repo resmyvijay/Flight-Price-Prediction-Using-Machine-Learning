@@ -28,7 +28,7 @@ Price -	Target, The price of the ticket()
 
 ### MACHINE LEARNING MODELS
 
-#### LINEAR REGRESSION
+ LINEAR REGRESSION
 
 RMSE: -0.15382690702196586
 
